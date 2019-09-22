@@ -1,2 +1,2 @@
-# nubisoniot
+# Nubison IoT
 NUBISON IoT Test
